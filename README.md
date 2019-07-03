@@ -1,16 +1,36 @@
-# stream_counter
+<!-- header section -->
+<p align="center">
+  <img src="https://i.imgur.com/PzQf1wp.png" height="224" /><br/>
+  <span><b>Stream Counter.</b></span><br/>
+  <span>Aplicação Mobile desenvolvida em <b>Flutter.</b></span><br/>
+  <span>Rodando em ambas plataformas, <b>Android 🤖</b> & <b>iOS 🍎</b>. </span><br/>
+</p>
+<!-- header section END -->
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+<!-- about app and course section -->
 
-This project is a starting point for a Flutter application.
+## Sobre o app
 
-A few resources to get you started if this is your first Flutter project:
+Seria uma aplicação bem simples em Flutter utilizando o conceito de Stream ao invés de setState. Quando falamos de projetos grandes, utilizar Stream ao invés de setState, você tem um grande ganho de performance no seu app, uma vez que quando for feita uma alteração, não será feito o re-build de toda tela e sim apenas será feito do elemento que deve ser alterado via Stream.
+Nesse código, faço um exemplo com o _counter_ , que seria um exemplo que já vem default ao criar um app em flutter usando setState, com isso mudei ele para usar Stream.
+<br/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Tech Stack
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+
+<br/>
+
+<!-- about me -->
+
+## About me @Dev
+
+Me segue no Twitter: [@samuelmataraso](https://twitter.com/samuelmataraso)
+
+<a href="https://twitter.com/samuelmataraso" target="_blank">
+<img src="https://twitter.com/samuelmataraso/profile_image?size=original" height="100" /></a>
+
+<!-- about me  END -->
