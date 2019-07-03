@@ -13,8 +13,8 @@
 
 ## Sobre o app
 
-Seria uma aplicação bem simples em Flutter utilizando o conceito de Stream ao invés de setState. Quando falamos de projetos grandes, utilizar Stream ao invés de setState, você tem um grande ganho de performance no seu app, uma vez que quando for feita uma alteração, não será feito o re-build de toda tela e sim apenas será feito do elemento que deve ser alterado via Stream.
-Nesse código, faço um exemplo com o _counter_ , que seria um exemplo que já vem default ao criar um app em flutter usando setState, com isso mudei ele para usar Stream.
+Seria uma aplicação bem simples em Flutter utilizando o conceito de Stream. Quando falamos de projetos grandes, utilizar Stream ao invés de setState, você tem um grande ganho de performance no seu app, uma vez que quando for feita uma alteração, não será feito o re-build de toda tela e sim apenas será feito do elemento que deve ser alterado via Stream.
+Nesse código, faço um exemplo com o _counter_ , que seria um exemplo que já vem default ao criar um app em flutter usando setState, com isso fiz o mesmo exemplo porém usando Stream.
 <br/>
 
 ## Tech Stack
